@@ -149,5 +149,3 @@ This project demonstrates my ability to transform HR data into meaningful busine
 **Sameer Sharma**
 
 Aspiring Data Analyst
-
-If you found this project helpful, feel free to ⭐ the repository.
